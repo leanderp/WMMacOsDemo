@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>urlTrakingApp</key>
+	<string>https://ex8fkdh2oa.execute-api.us-east-2.amazonaws.com</string>
+	<key>firefoxURLDescriptor</key>
+	<integer>5</integer>
+	<key>chromeTitleDescriptor</key>
+	<integer>4</integer>
+	<key>chromeURLDescriptor</key>
+	<integer>3</integer>
+	<key>safariTitleDescriptor</key>
+	<integer>2</integer>
+	<key>safariURLDescriptor</key>
+	<integer>1</integer>
+	<key>timeStopInactive</key>
+	<integer>60</integer>
+	<key>percentInactiveAcceptable</key>
+	<integer>60</integer>
+	<key>initInactiveTimeSeconds</key>
+	<integer>30</integer>
+	<key>ResetTimeSecondsCountersMax</key>
+	<integer>1</integer>
+	<key>ResetTimeMinCountersMax</key>
+	<integer>2</integer>
+	<key>loginMessage</key>
+	<string>Sing In to continue</string>
+	<key>loginTitle</key>
+	<string>DEMO TRACKING APP</string>
+</dict>
+</plist>
