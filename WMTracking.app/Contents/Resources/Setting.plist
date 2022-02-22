@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>timeScreenShop</key>
+	<integer>120</integer>
 	<key>urlTrakingApp</key>
 	<string>https://ex8fkdh2oa.execute-api.us-east-2.amazonaws.com</string>
 	<key>firefoxURLDescriptor</key>
