@@ -10,7 +10,7 @@
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		orlojY4ftqIPr84tqYvNCodLkQk=
+		sac9aea1coe4mHJkLbSdMTN4Heg=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/Info.plist</key>
 		<data>
@@ -18,11 +18,7 @@
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/MainMenu.nib</key>
 		<data>
-<<<<<<< HEAD
 		+kfyzz1Hcyz3n9jWER0qZtxQmYo=
-=======
-		bGmVdzqdIlLWbg9bbx8KB+ph2SU=
->>>>>>> e6df3232ad8c505b0cd005b795e6511d416823db
 		</data>
 		<key>Resources/Setting.plist</key>
 		<data>
@@ -47,11 +43,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-<<<<<<< HEAD
 			9CegIHr3w7oomJgcnYYOfz+FfP0=
-=======
-			jDgLMA3sN5deY4LvIECLwkkNJfE=
->>>>>>> e6df3232ad8c505b0cd005b795e6511d416823db
 			</data>
 			<key>requirement</key>
 			<string>identifier "org.cocoapods.Alamofire" and anchor apple generic and certificate leaf[subject.CN] = "Apple Development: ivan aquino (477575LWMA)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
@@ -60,11 +52,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-<<<<<<< HEAD
 			4kdH8T+Kil4RDOOCwg+VAP428nk=
-=======
-			U5pIHc/wZQs11ybHG3dx1BALPLE=
->>>>>>> e6df3232ad8c505b0cd005b795e6511d416823db
 			</data>
 			<key>requirement</key>
 			<string>identifier "org.cocoapods.SDWebImage" and anchor apple generic and certificate leaf[subject.CN] = "Apple Development: ivan aquino (477575LWMA)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
@@ -73,11 +61,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-<<<<<<< HEAD
 			gvMZq+CIbkRvpAUZEqZyRvEVpRU=
-=======
-			280v8qAin+dKfZOPRWhzAcL9Fm8=
->>>>>>> e6df3232ad8c505b0cd005b795e6511d416823db
 			</data>
 			<key>requirement</key>
 			<string>identifier "org.cocoapods.SDWebImageSwiftUI" and anchor apple generic and certificate leaf[subject.CN] = "Apple Development: ivan aquino (477575LWMA)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
@@ -86,11 +70,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-<<<<<<< HEAD
 			cFY7qg1hi2Q28i2egWxXD9WL1qY=
-=======
-			Nese9FQDXWUH5vLhm/s4FQAzIkw=
->>>>>>> e6df3232ad8c505b0cd005b795e6511d416823db
 			</data>
 			<key>requirement</key>
 			<string>identifier "org.cocoapods.SQLite" and anchor apple generic and certificate leaf[subject.CN] = "Apple Development: ivan aquino (477575LWMA)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
@@ -99,11 +79,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-<<<<<<< HEAD
 			+GDARHr5OVc4z7wDb+oY6m2J5Io=
-=======
-			H0ISH/kpQlPEtag1GCfBLjZLL78=
->>>>>>> e6df3232ad8c505b0cd005b795e6511d416823db
 			</data>
 			<key>requirement</key>
 			<string>identifier "org.cocoapods.SwiftyJSON" and anchor apple generic and certificate leaf[subject.CN] = "Apple Development: ivan aquino (477575LWMA)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
@@ -119,7 +95,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3g6/Fymc8VETcUcq2edsvPiJiPnkmyeG5iFtuo8PgmE=
+			DCj36NeiicgB33/aSHEyQ3k0nlodgErAS57wcEadAfA=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/Info.plist</key>
@@ -133,11 +109,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-<<<<<<< HEAD
 			DxX4JUQCkFic832c7DUgOntqPIaEDjTPKcRtLP7cPJM=
-=======
-			n7Agk0up2L5ZP5TmepgNGOGKhMxACpQFtxOPAvd5Gkc=
->>>>>>> e6df3232ad8c505b0cd005b795e6511d416823db
 			</data>
 		</dict>
 		<key>Resources/Setting.plist</key>
