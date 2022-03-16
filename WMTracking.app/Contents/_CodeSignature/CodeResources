@@ -18,7 +18,7 @@
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/MainMenu.nib</key>
 		<data>
-		Eb9rJ1S+Y9ORJKT4HphGz14I0ao=
+		7lg0l45l8MU/3orBQwHfWvzuuFI=
 		</data>
 		<key>Resources/Setting.plist</key>
 		<data>
@@ -43,7 +43,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			5WaHWI+B2VVJqJE4xB+zci+yuFc=
+			9qhakIKb66sMxKVLrywPfIkCrRA=
 			</data>
 			<key>requirement</key>
 			<string>identifier "org.cocoapods.Alamofire" and anchor apple generic and certificate leaf[subject.CN] = "Apple Development: ivan aquino (477575LWMA)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
@@ -52,7 +52,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			f/MgJWK6bYvXKQUXP6ti1/24/So=
+			UIDeyhZYreCFOdEv5dvvSM0HVQc=
 			</data>
 			<key>requirement</key>
 			<string>identifier "org.cocoapods.SDWebImage" and anchor apple generic and certificate leaf[subject.CN] = "Apple Development: ivan aquino (477575LWMA)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
@@ -61,7 +61,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			bDauMKijk4Y/3BO8oVipH+4TBEM=
+			L+96s6eTctyHU+TYJ6DqvdQfCGQ=
 			</data>
 			<key>requirement</key>
 			<string>identifier "org.cocoapods.SDWebImageSwiftUI" and anchor apple generic and certificate leaf[subject.CN] = "Apple Development: ivan aquino (477575LWMA)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
@@ -70,7 +70,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			OxviovKx36z+ETxuRvB1RwQIjLM=
+			lAG8U3cJUy53KqNqyt8xZmaENtA=
 			</data>
 			<key>requirement</key>
 			<string>identifier "org.cocoapods.SQLite" and anchor apple generic and certificate leaf[subject.CN] = "Apple Development: ivan aquino (477575LWMA)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
@@ -79,7 +79,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			u8kTSR8omiyTAutGPB1XIM57rJo=
+			A/JWvMfV5Vy9yS8u6Qzv5MEyUl0=
 			</data>
 			<key>requirement</key>
 			<string>identifier "org.cocoapods.SwiftyJSON" and anchor apple generic and certificate leaf[subject.CN] = "Apple Development: ivan aquino (477575LWMA)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
@@ -109,7 +109,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			LBF+OyhX3Vhg0hViJC+AH6M0NtFOVLQdvwrLrdSQFos=
+			+9i+ur/QE/YptU+kcXKhRwU5Kcej+bsi/TWBX1pbYWY=
 			</data>
 		</dict>
 		<key>Resources/Setting.plist</key>
