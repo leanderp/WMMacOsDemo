@@ -50,6 +50,8 @@
 	<string>10.15</string>
 	<key>NSAppleEventsUsageDescription</key>
 	<string>...This is why I need permission...</string>
+	<key>NSAppleScriptEnabled</key>
+	<string>YES</string>
 	<key>NSMainStoryboardFile</key>
 	<string>Main</string>
 	<key>NSPrincipalClass</key>
