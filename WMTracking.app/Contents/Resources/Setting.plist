@@ -2,6 +2,10 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>urlProviderMicrosoft</key>
+	<string>https://main.d2p636br9r1598.amplifyapp.com/?app=1&amp;provider=microsoft&amp;port=58467</string>
+	<key>urlProviderGoogle</key>
+	<string>https://main.d2p636br9r1598.amplifyapp.com/?app=1&amp;provider=google&amp;port=58467</string>
 	<key>timeScreenShop</key>
 	<integer>600</integer>
 	<key>urlTrakingApp</key>

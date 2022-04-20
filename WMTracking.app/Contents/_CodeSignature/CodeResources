@@ -10,7 +10,7 @@
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		lTBlNdyR4PzrL/+HZ/uvuc0h8nk=
+		ws3DqsOXVt1HuJ70t6zlSeP/lfU=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/Info.plist</key>
 		<data>
@@ -18,11 +18,11 @@
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/MainMenu.nib</key>
 		<data>
-		QBBlGkQCzuVmU3iPzilmtgfg5DQ=
+		IRkBLeO42Lad4tze160w3A7O33g=
 		</data>
 		<key>Resources/Setting.plist</key>
 		<data>
-		eh6PhlwN/iyoJwvfrcMA/l8x6GA=
+		kCeIP/Oscd8uqTnIlfItOnYKx38=
 		</data>
 		<key>Resources/WMTracking.momd/VersionInfo.plist</key>
 		<data>
@@ -43,16 +43,34 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			qyACE8XFj9eBjcOQOMM2Um1Ea8k=
+			5XNBRg0PB98aMag8Hb0fLoAoObE=
 			</data>
 			<key>requirement</key>
 			<string>identifier "org.cocoapods.Alamofire" and anchor apple generic and certificate leaf[subject.CN] = "Apple Development: ivan aquino (477575LWMA)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
+		</dict>
+		<key>Frameworks/DCOURLGrabber.framework</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			Ov10eni9l8xYzEc/u33xmFSstgw=
+			</data>
+			<key>requirement</key>
+			<string>identifier "org.cocoapods.DCOURLGrabber" and anchor apple generic and certificate leaf[subject.CN] = "Apple Development: ivan aquino (477575LWMA)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
+		</dict>
+		<key>Frameworks/Pods_WMTracking.framework</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			Dza2IvjQa0Gx+F97vGfUWJruX7s=
+			</data>
+			<key>requirement</key>
+			<string>identifier "org.cocoapods.Pods-WMTracking" and anchor apple generic and certificate leaf[subject.CN] = "Apple Development: ivan aquino (477575LWMA)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
 		</dict>
 		<key>Frameworks/SDWebImage.framework</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			Wp6XhKCy8Ixm1dr1hAgZ1yh4Uro=
+			s6PBVcnVJOiBftFy0VSuwW1UUEM=
 			</data>
 			<key>requirement</key>
 			<string>identifier "org.cocoapods.SDWebImage" and anchor apple generic and certificate leaf[subject.CN] = "Apple Development: ivan aquino (477575LWMA)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
@@ -61,7 +79,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			37wawFbOuYZziGBRs/uaWIhEtEM=
+			/l3/SQiKuMzcQDdVuLUgesHlVkw=
 			</data>
 			<key>requirement</key>
 			<string>identifier "org.cocoapods.SDWebImageSwiftUI" and anchor apple generic and certificate leaf[subject.CN] = "Apple Development: ivan aquino (477575LWMA)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
@@ -70,7 +88,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			xEsn+NgX8JwJbCPnfSHjvtQTPEk=
+			GVans9sh6SidTDtl24kfPhgizuQ=
 			</data>
 			<key>requirement</key>
 			<string>identifier "org.cocoapods.SQLite" and anchor apple generic and certificate leaf[subject.CN] = "Apple Development: ivan aquino (477575LWMA)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
@@ -79,7 +97,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			of9A/d8K2cdSLbSaa6uMJkLLJhY=
+			kLYxIaV21LJ5sYHw9iGhFTTD7VA=
 			</data>
 			<key>requirement</key>
 			<string>identifier "org.cocoapods.SwiftyJSON" and anchor apple generic and certificate leaf[subject.CN] = "Apple Development: ivan aquino (477575LWMA)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
@@ -95,7 +113,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pVXfN0dGmMsiwc9+sGHUt4RcsvMHkrHFgBMaDi31YMo=
+			9hgFbR/Z0pzUL6Soz3wtaiPVe+IYISJe6KoJMTP1uOA=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/Info.plist</key>
@@ -109,14 +127,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			eIWuKypI7CnzAqSBTufqLZ7KdGkWfeI5Ynv/WJ4xDaQ=
+			ogfjL0kcisphb5q8ZfIM0yz4Suy15W/aH4vfaAEP1EQ=
 			</data>
 		</dict>
 		<key>Resources/Setting.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wLXRJl7rT4jJD3Vkate2hqkXB6v3wgKd7jiS+x5iyIs=
+			xPtCN4hksY5KBVFdrKpoFeh2dtZ6bwausLvqTXfOKwA=
 			</data>
 		</dict>
 		<key>Resources/WMTracking.momd/VersionInfo.plist</key>
