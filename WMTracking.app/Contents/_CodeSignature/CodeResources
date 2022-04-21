@@ -10,7 +10,7 @@
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		ws3DqsOXVt1HuJ70t6zlSeP/lfU=
+		96XJyg8rQvBSt8RPll4knWHVv4I=
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/Info.plist</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>Resources/Base.lproj/Main.storyboardc/MainMenu.nib</key>
 		<data>
-		IRkBLeO42Lad4tze160w3A7O33g=
+		/fU48uob7Mh0JLJh1iVtsf90sSc=
 		</data>
 		<key>Resources/Setting.plist</key>
 		<data>
@@ -36,6 +36,26 @@
 		<data>
 		bXzI15rJSb9Yr5qL8q5J+G+QMuQ=
 		</data>
+		<key>Resources/com.apple.Safari.scpt</key>
+		<data>
+		UOKQvDMffyqBb6ZLO71sQFi2KKA=
+		</data>
+		<key>Resources/com.google.Chrome.canary.scpt</key>
+		<data>
+		snds8sLMLDPvLo4rdmYOp0a5qHU=
+		</data>
+		<key>Resources/com.google.Chrome.scpt</key>
+		<data>
+		9op7s8oYvTjG2Qka+cg+2A/mW60=
+		</data>
+		<key>Resources/com.operasoftware.Opera.scpt</key>
+		<data>
+		VEvXz13Q9cKLGLDgEaUZa+QBbWw=
+		</data>
+		<key>Resources/org.mozilla.firefox.scpt</key>
+		<data>
+		8ali55wdml5683czO/9HuAG8AN8=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -43,7 +63,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			5XNBRg0PB98aMag8Hb0fLoAoObE=
+			0bQ5Ew+3cHSsihZNsW1wh5Xe1QE=
 			</data>
 			<key>requirement</key>
 			<string>identifier "org.cocoapods.Alamofire" and anchor apple generic and certificate leaf[subject.CN] = "Apple Development: ivan aquino (477575LWMA)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
@@ -52,7 +72,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			Ov10eni9l8xYzEc/u33xmFSstgw=
+			wWhEAD1QP1bSoDFmHKGRNLBeQMM=
 			</data>
 			<key>requirement</key>
 			<string>identifier "org.cocoapods.DCOURLGrabber" and anchor apple generic and certificate leaf[subject.CN] = "Apple Development: ivan aquino (477575LWMA)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
@@ -61,7 +81,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			Dza2IvjQa0Gx+F97vGfUWJruX7s=
+			sPoD0J/CbgSkMExJXtcCZogW5K0=
 			</data>
 			<key>requirement</key>
 			<string>identifier "org.cocoapods.Pods-WMTracking" and anchor apple generic and certificate leaf[subject.CN] = "Apple Development: ivan aquino (477575LWMA)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
@@ -70,7 +90,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			s6PBVcnVJOiBftFy0VSuwW1UUEM=
+			dFfaJXqhHayOukUkD8OK1lPuHlE=
 			</data>
 			<key>requirement</key>
 			<string>identifier "org.cocoapods.SDWebImage" and anchor apple generic and certificate leaf[subject.CN] = "Apple Development: ivan aquino (477575LWMA)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
@@ -79,7 +99,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			/l3/SQiKuMzcQDdVuLUgesHlVkw=
+			u+tj6M5VuUFlxBrhbxG5wliU05c=
 			</data>
 			<key>requirement</key>
 			<string>identifier "org.cocoapods.SDWebImageSwiftUI" and anchor apple generic and certificate leaf[subject.CN] = "Apple Development: ivan aquino (477575LWMA)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
@@ -88,7 +108,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			GVans9sh6SidTDtl24kfPhgizuQ=
+			qc2+ifiKjchgwdTOZyN5G3ibEjY=
 			</data>
 			<key>requirement</key>
 			<string>identifier "org.cocoapods.SQLite" and anchor apple generic and certificate leaf[subject.CN] = "Apple Development: ivan aquino (477575LWMA)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
@@ -97,7 +117,7 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			kLYxIaV21LJ5sYHw9iGhFTTD7VA=
+			GSqi77H0m9vcXMZy1UOnkApJWCA=
 			</data>
 			<key>requirement</key>
 			<string>identifier "org.cocoapods.SwiftyJSON" and anchor apple generic and certificate leaf[subject.CN] = "Apple Development: ivan aquino (477575LWMA)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
@@ -113,7 +133,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9hgFbR/Z0pzUL6Soz3wtaiPVe+IYISJe6KoJMTP1uOA=
+			y6GnI1QXLEMvEGdAj83ddM3dSIHD3v8oPaJNeQfL1V4=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/Main.storyboardc/Info.plist</key>
@@ -127,7 +147,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ogfjL0kcisphb5q8ZfIM0yz4Suy15W/aH4vfaAEP1EQ=
+			8Hkl2QzJmWBpvkjuphkygvM2qtQJNqDVzt1btvnon+s=
 			</data>
 		</dict>
 		<key>Resources/Setting.plist</key>
@@ -156,6 +176,41 @@
 			<key>hash2</key>
 			<data>
 			7+p/X/4QscQOgdtMpPior//5VMDRR8Fj+yJWAUXbvSc=
+			</data>
+		</dict>
+		<key>Resources/com.apple.Safari.scpt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			VGKVSDNcSVeB/bGhqw79pUdIcoK0hKpwjYrSjaxtPco=
+			</data>
+		</dict>
+		<key>Resources/com.google.Chrome.canary.scpt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			OJWdFQQ+lG3IVfk0R26dNbEFiU0V1DBxKy+VXBy6380=
+			</data>
+		</dict>
+		<key>Resources/com.google.Chrome.scpt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			zn1ddKb3NFNiF3SlC/UB+eiuwnLnO+ykTHVWvOlihx0=
+			</data>
+		</dict>
+		<key>Resources/com.operasoftware.Opera.scpt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/XE3rrP/YRC4JvBCfByDUexPoLRSutM1U7yTeNzzpKs=
+			</data>
+		</dict>
+		<key>Resources/org.mozilla.firefox.scpt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jz2SNQ7qXTP8OSphWGI02r+sqIoyP9DqHKAHnlB/liU=
 			</data>
 		</dict>
 	</dict>
