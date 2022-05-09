@@ -21,11 +21,11 @@
 	<key>safariURLDescriptor</key>
 	<integer>1</integer>
 	<key>timeStopInactive</key>
-	<integer>60</integer>
+	<integer>20</integer>
 	<key>percentInactiveAcceptable</key>
 	<integer>60</integer>
 	<key>initInactiveTimeSeconds</key>
-	<integer>30</integer>
+	<integer>600</integer>
 	<key>ResetTimeSecondsCountersMax</key>
 	<integer>1</integer>
 	<key>ResetTimeMinCountersMax</key>
