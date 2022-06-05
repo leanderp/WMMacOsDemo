@@ -25,7 +25,7 @@
 	<key>percentInactiveAcceptable</key>
 	<integer>60</integer>
 	<key>initInactiveTimeSeconds</key>
-	<integer>600</integer>
+	<integer>15</integer>
 	<key>ResetTimeSecondsCountersMax</key>
 	<integer>1</integer>
 	<key>ResetTimeMinCountersMax</key>
